@@ -1,0 +1,35 @@
+{
+  "manifestVersion": 1,
+  "mods": [
+    {
+      "id": "example-dll-mod",
+      "name": "Example Mod (edit me)",
+      "author": "SomeAuthor",
+      "description": "Replace these entries with real Synth Riders mods. 'repo' is the GitHub owner/repo whose Releases page has the mod DLL or zip.",
+      "repo": "owner/repo-name"
+    },
+    {
+      "id": "synthriderstwitchchat",
+      "name": "Synth Riders Twitch Chat",
+      "author": "Sam",
+      "description": "Shows Twitch chat in-game. Point 'repo' at your published GitHub repo once you release it.",
+      "repo": "YOUR_GITHUB_USERNAME/SynthRidersTwitchChat"
+    },
+    {
+      "id": "example-zip-mod",
+      "name": "Example Zip Mod (edit me)",
+      "author": "SomeAuthor",
+      "description": "Example showing assetPattern — picks the PCVR zip when a release has multiple platform assets.",
+      "repo": "owner/repo-name",
+      "assetPattern": "(?i)pcvr.*\\.zip$"
+    },
+	{
+	  "id": "SynthChannelPoints",
+      "name": "Synth Riders Channel Point Fix",
+      "author": "0mniDreamer",
+      "description": "This mod fixes redemptions by bridging Twitch's replacement service (EventSub) into the game.",
+      "repo": "0mniDreamer/SynthChannelPointFix"	
+	}
+
+  ]
+}
