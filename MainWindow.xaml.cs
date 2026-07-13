@@ -12,7 +12,7 @@ public partial class MainWindow : Window
 {
     // Set this to your hosted manifest (raw GitHub URL). Local mods.json is the fallback.
     const string DefaultManifestUrl =
-        "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/synth-mod-manifest/main/mods.json";
+        "https://raw.githubusercontent.com/0mniDreamer/SynthRidersModManager/refs/heads/master/mods.json?token=GHSAT0AAAAAAD7TDJR3NHES5PHDSPJW2MCI2SVIXAA";
 
     readonly GitHubService _github = new();
     readonly ModInstaller _installer = new();

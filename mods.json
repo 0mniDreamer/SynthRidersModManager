@@ -9,19 +9,18 @@
       "repo": "owner/repo-name"
     },
     {
-      "id": "synthriderstwitchchat",
-      "name": "Synth Riders Twitch Chat",
-      "author": "Sam",
-      "description": "Shows Twitch chat in-game. Point 'repo' at your published GitHub repo once you release it.",
-      "repo": "YOUR_GITHUB_USERNAME/SynthRidersTwitchChat"
+      "id": "SynthCustomSounds",
+      "name": "Synth Riders Custom Sounds",
+      "author": "0mniDreamer",
+      "description": "Lets you replace game sounds with your own custom audio files.",
+      "repo": "0mniDreamer/SynthCustomSounds"
     },
     {
-      "id": "example-zip-mod",
-      "name": "Example Zip Mod (edit me)",
-      "author": "SomeAuthor",
-      "description": "Example showing assetPattern — picks the PCVR zip when a release has multiple platform assets.",
-      "repo": "owner/repo-name",
-      "assetPattern": "(?i)pcvr.*\\.zip$"
+      "id": "SynthStrobeRGB",
+      "name": "Synth Riders RGB Strobe",
+      "author": "0mniDreamer",
+      "description": "Upgrade Your Lighting in the PC Version of SynthRiders with this Strobe RGB Override ",
+      "repo": "0mniDreamer/SynthStrobeRGB"
     },
 	{
 	  "id": "SynthChannelPoints",
