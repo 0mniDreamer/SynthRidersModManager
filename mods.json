@@ -28,7 +28,49 @@
       "author": "0mniDreamer",
       "description": "This mod fixes redemptions by bridging Twitch's replacement service (EventSub) into the game.",
       "repo": "0mniDreamer/SynthChannelPointFix"	
-	}
+	},
+  {
+      "id": "SynthDiscordRPC",
+      "name": "Synth Riders Discord Rich Presence",
+      "author": "0mniDreamer",
+      "description": "Shows on your Discord profile: In a song — song title, artist, difficulty, and a live elapsed timer ",
+      "repo": "0mniDreamer/SynthDiscordRPC"
+  },
+  {
+      "id": "SynthPerfFixforCustomStages",
+      "name": "Synth Riders Custom Stage Fix",
+      "author": "0mniDreamer",
+      "description": "Fixes stuttering on custom stages on the Unity 6 branch of Synth Riders",
+      "repo": "0mniDreamer/SynthPerfFixforCustomStages"
+  },
+  {
+      "id": "FastSongSearch",
+      "name": "Synth Riders Fast song Search and queue fix",
+      "author": "0mniDreamer",
+      "description": "Eliminates stutter during Twitch song requests in Synth Riders, Last song in queue fix",
+      "repo": "0mniDreamer/FastSongSearch"
+  },
+  {
+      "id": "SynthRidersLevelUpWebsocketMod",
+      "name": "Synth Riders Level Up Websocket Mod",
+      "author": "0mniDreamer",
+      "description": "Broadcasts live gameplay events over a local WebSocket, so external apps can react to play in real time",
+      "repo": "0mniDreamer/SynthRidersLevelUpWebsocketMod"
+  },
+  {
+      "id": "SRMultiplayerSongGrabber",
+      "name": "Synth Riders Multiplayer Song Grabber",
+      "author": "bookdude13",
+      "description": "Button for downloading missing custom songs in Synth Riders. Based on the original mod by Moinn, revamped for the newest SR versions / UI ",
+      "repo": "bookdude13/SRMultiplayerSongGrabber"
+  },
+  {
+      "id": "SRVoting",
+      "name": "Synth Riders Map Voting Mod",
+      "author": "bookdude13",
+      "description": "A Synth Riders mod for in-game up/down vote of custom songs",
+      "repo": "bookdude13/SRVoting"
+  }
 
   ]
 }
