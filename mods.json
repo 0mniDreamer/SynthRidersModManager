@@ -2,13 +2,6 @@
   "manifestVersion": 1,
   "mods": [
     {
-      "id": "example-dll-mod",
-      "name": "Example Mod (edit me)",
-      "author": "SomeAuthor",
-      "description": "Replace these entries with real Synth Riders mods. 'repo' is the GitHub owner/repo whose Releases page has the mod DLL or zip.",
-      "repo": "owner/repo-name"
-    },
-    {
       "id": "SynthCustomSounds",
       "name": "Synth Riders Custom Sounds",
       "author": "0mniDreamer",
